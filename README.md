@@ -8,7 +8,6 @@ AUIC Web based Application the perpose of this to provide the facility to Univer
 # Tools Use</br>
 1.  Microsoft Visual Studio
 2.  Chrome or Mozila Browser
-3.  
 
 # Modules</br>
 1.  Course Registration
